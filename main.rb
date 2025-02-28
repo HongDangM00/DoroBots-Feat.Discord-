@@ -1,6 +1,6 @@
 require 'discordrb'
 
-# TOKEN에 
+# TOKEN에 사용자 토큰 입력
 TOKEN = 'Here in Your Token'
 BOT_PREFIX = '!'
 
